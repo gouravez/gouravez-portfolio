@@ -2,23 +2,23 @@ import { useState } from "react";
 import { motion } from "motion/react";
 function Navigation() {
   return (
-    <ul className="flex sm:flex-row items-center gap-6">
-      <li className="nav-li">
+    <ul className="flex flex-col sm:flex-row items-center gap-6">
+      <li className="nav-li sm:w-auto">
         <a className="nav-link" href="#home">
           Home
         </a>
       </li>
-      <li className="nav-li">
+      <li className="nav-li sm:w-auto">
         <a className="nav-link" href="#about">
           About
         </a>
       </li>
-      <li className="nav-li">
+      <li className="nav-li sm:w-auto">
         <a className="nav-link" href="#work">
           Work
         </a>
       </li>
-      <li className="nav-li">
+      <li className="nav-li sm:w-auto">
         <a className="nav-link" href="#contact">
           Contact
         </a>
