@@ -19,7 +19,7 @@ const About = () => {
           <div className="z-10">
             <p className="headtext">Hi, I'm Gourav</p>
             <p className="subtext">
-              Over the last 4 years, I developed my frontend and backend dev
+              Over the last 2 years, I developed my frontend and backend dev
               skills to deliver dynamic and software and web applications.
             </p>
           </div>
@@ -36,7 +36,7 @@ const About = () => {
             </p>
             <Card
               style={{ rotate: "75deg", top: "30%", left: "20%" }}
-              text="GRASP"
+              text="System Design"
               containerRef={grid2Container}
             />
             <Card
@@ -56,22 +56,27 @@ const About = () => {
             />
             <Card
               style={{ rotate: "20deg", top: "10%", left: "38%" }}
-              text="SRP"
+              text="Algorithms"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "30deg", top: "70%", left: "70%" }}
-              image="assets/logos/csharp-pink.png"
+              image="assets/logos/javascript.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="assets/logos/dotnet-pink.png"
+              image="assets/logos/github.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="assets/logos/blazor-pink.png"
+              image="assets/logos/cpp.svg"
+              containerRef={grid2Container}
+            />
+            <Card
+              style={{ rotate: "70deg", top: "50%", left: "30%" }}
+              image="assets/logos/python.svg"
               containerRef={grid2Container}
             />
           </div>

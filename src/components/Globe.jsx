@@ -103,7 +103,7 @@ export function Globe({ className, config = GLOBE_CONFIG }) {
   return (
     <div
       className={cn(
-        "relative mx-auto w-full max-w-[600px] aspect-square",
+        "relative mx-auto w-full max-w-150 aspect-square",
         className
       )}
     >
