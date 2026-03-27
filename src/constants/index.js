@@ -8,7 +8,7 @@ export const myProjects = [
       "Built a clean and interactive interface for creating and managing idea cards with titles and descriptions.",
       "Enabled dynamic idea handling with real-time updates and smooth user interactions.",
     ],
-    href: "https://idea-board-e5lk.vercel.app/",
+    href: "https://ideaboardgouravez.vercel.app/",
     logo: "/assets/projects/ideaboard.jpg",
     image: "/assets/projects/ideaboard.png",
     tags: [
