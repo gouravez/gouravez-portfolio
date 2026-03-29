@@ -2,22 +2,18 @@ import { OrbitingCircles } from "./OrbitingCircles";
 
 export function Frameworks() {
   const skills = [
-    "auth0",
-    "blazor",
     "cplusplus",
-    "csharp",
     "css3",
-    "dotnet",
-    "dotnetcore",
     "git",
     "html5",
     "javascript",
     "microsoft",
     "react",
-    "sqlite",
     "tailwindcss",
     "vitejs",
-    "wordpress",
+    "nodejs",
+    "python",
+    "github",
   ];
   return (
     <div className="relative flex h-60 w-full flex-col items-center justify-center">
@@ -36,8 +32,5 @@ export function Frameworks() {
 }
 
 const Icon = ({ src }) => (
-  <img
-    src={src}
-    className="duration-200 h-6.25 rounded-sm hover:scale-110"
-  />
+  <img src={src} className="duration-200 h-6.25 rounded-sm hover:scale-110" />
 );

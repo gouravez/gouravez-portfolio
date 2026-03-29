@@ -47,6 +47,16 @@ export const mySocials = [
     href: "https://x.com/gouravez/",
     icon: "/assets/socials/x.svg",
   },
+  {
+    name: "GitHub",
+    href: "https://github.com/gouravez",
+    icon: "/assets/socials/github.svg",
+  },
+  {
+    name: "LeetCode",
+    href: "https://leetcode.com/gouravez/",
+    icon: "/assets/socials/leetcode.svg",
+  }
 ];
 
 export const experiences = [

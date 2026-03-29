@@ -33,10 +33,11 @@ const Navbar = () => {
       <div className="mx-auto c-space max-w-7xl">
         <div className="flex items-center justify-between py-2 sm:py-0">
           <a
-            href="/"
+            href="/resume.pdf"
+            download
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Gourav
+            Download Resume
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
