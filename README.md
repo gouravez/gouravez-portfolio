@@ -94,8 +94,7 @@ You can download my resume directly from the website or here:
 Feel free to reach out:
 
 * 📧 Email: [junejagourav2006@gmail.com](mailto:junejagourav2006@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🧑‍💻 GitHub: https://github.com/your-username
+* 💼 LinkedIn: https://linkedin.com/in/gouravez
 
 ---
 
